@@ -1,0 +1,39 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+h1{
+
+    color: gold;
+    text-align: center;
+    
+}
+body{
+
+    background-image: url("TRAVEL.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ 
+
+}
+
+
+p{
+    font-size: larger;
+    text-align: justify;
+   
+    
+}
+.DD{
+    color: rgb(212, 231, 231);
+    background-color: tomato;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    padding: 40px 60px 20px 30px;
+    border: 6px solid yellowgreen;
+    border-radius: 40px;
+}
